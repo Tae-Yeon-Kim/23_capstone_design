@@ -1,0 +1,5 @@
+https://github.com/AgaMiko/waste-datasets-review
+
+https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification
+
+https://www.kaggle.com/datasets/techsash/waste-classification-data
